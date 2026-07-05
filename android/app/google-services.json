@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "904904061426",
+    "project_id": "ostad-course-f27b4",
+    "storage_bucket": "ostad-course-f27b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904904061426:android:940dae8b79240993497b6b",
+        "android_client_info": {
+          "package_name": "com.example.crafty_bay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfeEgHuxcBioNvo_A6XbyTtMdo2pFKaQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904904061426:android:b1ca3d8a5abc1666497b6b",
+        "android_client_info": {
+          "package_name": "com.example.live_score_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfeEgHuxcBioNvo_A6XbyTtMdo2pFKaQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904904061426:android:c3b9be02407c2a53497b6b",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfeEgHuxcBioNvo_A6XbyTtMdo2pFKaQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

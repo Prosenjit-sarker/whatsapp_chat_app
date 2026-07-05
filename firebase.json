@@ -1,0 +1,33 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "ostad-course-f27b4",
+                    "appId": "1:904904061426:android:c3b9be02407c2a53497b6b",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "ios": {
+                "default": {
+                    "projectId": "ostad-course-f27b4",
+                    "appId": "1:904904061426:ios:6ea162e26f2c5423497b6b",
+                    "uploadDebugSymbols": false,
+                    "fileOutput": "ios/Runner/GoogleService-Info.plist"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "ostad-course-f27b4",
+                    "configurations": {
+                        "android": "1:904904061426:android:c3b9be02407c2a53497b6b",
+                        "ios": "1:904904061426:ios:6ea162e26f2c5423497b6b"
+                    }
+                }
+            }
+        }
+    },
+    "firestore": {
+        "rules": "firestore.rules"
+    }
+}
