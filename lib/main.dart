@@ -12,7 +12,7 @@ class WhatsAppCloneApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'WhatsApp Clone',
+      title: 'Nova Chat',
       debugShowCheckedModeBanner: false,
       theme: buildAppTheme(),
       home: const HomeScreen(),
