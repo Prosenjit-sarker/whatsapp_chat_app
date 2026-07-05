@@ -54,7 +54,7 @@ class _HomeScreenState extends State<HomeScreen>
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('WhatsApp',
+        title: const Text('Nova Chat',
             style: TextStyle(fontWeight: FontWeight.bold, fontSize: 21)),
         actions: [
           IconButton(
